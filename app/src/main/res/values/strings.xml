@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NavigationDrawer Application</string>
+    <string name="nav">Navigation</string>
+</resources>
